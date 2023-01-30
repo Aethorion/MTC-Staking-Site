@@ -3386,7 +3386,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
       '6NL1Dw5bEPSFDdFMPuZiYzDQdUXLF84VUZzK5D6v4Jg1'
     ),
     description:
-      'Meta Tune Coin is designed to pay back homeowners for good maintenance practices. Period.  Use with a Meta Tune Provider near you.',
+      'Meta Tune Club is designed to pay back homeowners for good maintenance practices. Period.  Use with a Meta Tune Provider near you.',
     // Optional hostname to remap -- SEE NOTE BELOW
     tokenStandard: TokenStandard.NonFungible,
     receiptType: ReceiptType.Original,
